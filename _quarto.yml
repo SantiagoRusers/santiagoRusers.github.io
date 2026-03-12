@@ -4,23 +4,24 @@ project:
 
 website:
   description: "Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile"
-  site-url: https://ruserssantiago.github.io
+  site-url: https://santiagoRusers.github.io
   title: "Grupo de usuari@s de R: Santiago"
   navbar:
     right:
-      - text: Introducción
-        href: introduccion.qmd
+      # - text: Introducción
+      #   href: introduccion.qmd
       - text: Blog
         href: index.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/RusersSantiago
+        href: https://github.com/santiagoRusers
       - icon: twitter
-        href: https://twitter.com/RusersSantiago
+        href: https://twitter.com/santiagoRusers
 format:
   html:
     lang: "es"
     theme: [litera, brand, styles.scss]
+    mainfont: "Livvic"
 
 
 

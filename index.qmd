@@ -1,5 +1,4 @@
 ---
-#title: "Grupo de usuari@s de R en Chile"
 listing:
   contents: posts
   feed: true
@@ -20,10 +19,10 @@ include-in-header:
         height: 0;
       }
       #title-block-header {
-        background-image: url(img/cordillera_wide.jpeg);
+        background-image: url(img/cordillera_wide_blur_b.jpg);
         background-size: cover;
-        background-position-y: center;
-        height: 200px;
+        background-position-y: top;
+        height: 180px;
       }
       </style>
 ---
