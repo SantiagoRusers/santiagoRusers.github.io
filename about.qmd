@@ -6,10 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/RusersChile
+      href: https://twitter.com/santiagoRusers
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/santiagorusers
     - icon: github
       text: Github
-      href: https://github.com/RusersChile
+      href: https://github.com/santiagoRusers
 
 ---
 
@@ -18,8 +21,8 @@ Sitio web de la comunidad de usuarias y usuarios de R en Chile.
 Organizado por [Bastián Olea](https://bastianolea.rbind.io) y [Carolina Morales](linkedin.com/in/carolinabelenmorales)
 
 
-Código del sitio [en Github](https://github.com/RusersChile/blog)
+Código del sitio [en Github](https://github.com/SantiagoRusers/santiagoRusers.github.io)
 
 ## Código de conducta
 
-Please note that the grupo_usuarios_r project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Nos adherimos al código de conducta _[Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html)._ Al contribuir o participar de este grupo, aceptas atenerte a sus términos.
