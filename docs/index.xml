@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Grupo de usuari@s de R: Santiago</title>
-<link>https://ruserschile.github.io/</link>
-<atom:link href="https://ruserschile.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://ruserssantiago.github.io/</link>
+<atom:link href="https://ruserssantiago.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Tue, 17 Feb 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Bienvenida usuaRi@s!</title>
   <dc:creator>Bastián Olea Herrera</dc:creator>
-  <link>https://ruserschile.github.io/posts/bienvenida/</link>
+  <link>https://ruserssantiago.github.io/posts/bienvenida/</link>
   <description><![CDATA[ 
 
 
@@ -22,15 +22,15 @@
 
 
 <p>Este será el blog de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
-<p><img src="https://ruserschile.github.io/posts/bienvenida/cordillera.jpeg" class="img-fluid"></p>
+<p><img src="https://ruserssantiago.github.io/posts/bienvenida/cordillera.jpeg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>noticias</category>
-  <guid>https://ruserschile.github.io/posts/bienvenida/</guid>
+  <guid>https://ruserssantiago.github.io/posts/bienvenida/</guid>
   <pubDate>Tue, 17 Feb 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://ruserschile.github.io/posts/bienvenida/cordillera.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://ruserssantiago.github.io/posts/bienvenida/cordillera.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
