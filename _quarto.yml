@@ -26,7 +26,7 @@ website:
   announcement: 
     icon: exclamation-circle-fill
     dismissable: true
-    content: "[**Inscríbete** a la primera junta del grupo!](participa.html) Mañana 18/03/2026"
+    content: "[**Inscríbete** a la primera junta del grupo!](participa.html) Hoy!"
     type: primary
     position: below-navbar
 format:
