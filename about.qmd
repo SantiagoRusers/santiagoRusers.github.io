@@ -6,7 +6,7 @@ about:
   links:
     - icon: slack
       text: Slack
-      href: https://santiagorusers.slack.com/
+      href: https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA
     - icon: twitter
       text: Twitter
       href: https://twitter.com/santiagoRusers

@@ -20,7 +20,7 @@ website:
       - text: "{{< fa brands meetup size=xl >}}"
         href: https://www.meetup.com/es-es/santiagorusers/
       - icon: slack
-        href: https://santiagorusers.slack.com/
+        href: https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA
       - icon: github
         href: https://github.com/santiagoRusers
       - icon: linkedin

@@ -39,7 +39,9 @@ target = "_blank">
 
 </div>
 
-Nos puedes ayudar difundiendo la iniciativa [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://twitter.com/santiagoRusers)
+Nos puedes ayudar difundiendo la iniciativa [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://twitter.com/santiagoRusers).
+
+En el intertanto, podemos [conversar por Slack! {{< fa brands slack >}}](https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA)
 
 ### Próxima reunión:
 - Mayo: última semana del mes, fecha por definir
