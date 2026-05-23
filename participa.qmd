@@ -20,6 +20,7 @@ format: html
 
 {{< fa triangle-exclamation size=2x >}} Se trata de un **espacio seguro** e **inclusivo**, donde no se tolerará ningún tipo de discriminación o acoso. [Revisa el código de conducta.](https://ropensci.org/es/código-de-conducta/)
 
+<!---
 Si te interesa participar, inscríbete a continuación:
 
 <div
@@ -39,12 +40,36 @@ target = "_blank">
 
 </div>
 
+--->
+
+### Próxima reunión:
+- **27 de mayo** de 2026, 19:30 hrs. (Santiago), online
+
+<div class="boton">
+<a
+href = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bGxobjBjNDFlMjNjZzYya29nc3BnZGVqZnMgYmFzdGlhbm9sZWFAbQ&tmsrc=bastianolea%40gmail.com" 
+target = "_blank">
+
+{{< fa calendar size=2x >}} Agregar a Google Calendar
+
+</a>
+</div>
+
+
+<div class="boton">
+<a
+href="evento_r_chile.ics" 
+download="evento_r_chile.ics">
+
+{{< fa calendar-plus size=2x >}} Agregar a Calendario
+
+</a>
+</div>
+
+
 Nos puedes ayudar difundiendo la iniciativa [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://twitter.com/santiagoRusers).
 
 En el intertanto, podemos [conversar por Slack! {{< fa brands slack >}}](https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA)
-
-### Próxima reunión:
-- Mayo: última semana del mes, fecha por definir
 
 ::: {style="opacity: 0.4;"}
 ### Reuniones pasadas:
