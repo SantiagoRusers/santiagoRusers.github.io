@@ -9,8 +9,68 @@
 <link>https://santiagoRusers.github.io/</link>
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Tue, 28 Apr 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Mon, 25 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reunión mensual de usuari@s de R: mayo</title>
+  <dc:creator>Carolina Morales y Bastián Olea</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/reunion_mayo_2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Esta semana es la tercera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
+<p>Ya llevamos dos reuniones, ambas siendo espacios muy amenos de conversación, debate y aprendizaje desde distintas disciplinas.</p>
+<p>Las reuniones son espacios de intercambio de experiencias y conversación centrados en datos, información geoespacial, estadísticas, inteligencia artificial y código abierto.</p>
+<p>En esta tercera reunión buscamos <strong>personas que quieran compartir experiencias y usos de R</strong>, así que puedes ir pensando en algo que compartir o presentar en vivo.</p>
+<!---
+ Visita la [página de **participación** para inscribirte!](/participa.html)
+
+--->
+<section id="reunión-de-mayo" class="level3">
+<h3 class="anchored" data-anchor-id="reunión-de-mayo">Reunión de mayo:</h3>
+<ul>
+<li>27 de mayo de 2026, 19:30 hrs. (Santiago), online</li>
+</ul>
+<p><a href="https://us06web.zoom.us/j/83823625632?pwd=a4T7yNqCrGgpUquJyU7NVZcfQ86aOq.1">Conéctate a la reunión por Zoom en este enlace</a>, y/o agrégala a tu calendario:</p>
+<div class="boton">
+<p><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGxobjBjNDFlMjNjZzYya29nc3BnZGVqZnMgYmFzdGlhbm9sZWFAbQ&amp;tmsrc=bastianolea%40gmail.com" target="_blank"></a></p><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGxobjBjNDFlMjNjZzYya29nc3BnZGVqZnMgYmFzdGlhbm9sZWFAbQ&amp;tmsrc=bastianolea%40gmail.com" target="_blank">
+<p><i class="fa-solid fa-calendar fa-2x" aria-label="calendar"></i> Agregar a Google Calendar</p>
+</a><p><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGxobjBjNDFlMjNjZzYya29nc3BnZGVqZnMgYmFzdGlhbm9sZWFAbQ&amp;tmsrc=bastianolea%40gmail.com" target="_blank"></a></p>
+</div>
+<div class="boton">
+<p><a href="evento_r_chile.ics" download="evento_r_chile.ics"></a></p><a href="evento_r_chile.ics" download="evento_r_chile.ics">
+<p><i class="fa-solid fa-calendar-plus fa-2x" aria-label="calendar-plus"></i> Agregar a Calendario</p>
+</a><p><a href="evento_r_chile.ics" download="evento_r_chile.ics"></a></p>
+</div>
+<p>Nos puedes ayudar difundiendo el aviso de la reunión <a href="https://www.linkedin.com/company/santiagorusers">en LinkedIn <i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> y en <a href="https://x.com/SantiagoRusers/">Twitter/X <i class="fa-brands fa-twitter" aria-label="twitter"></i></a></p>
+<p>Por mientras puedes unirte al <strong>chat grupal</strong> para conversar y ayudar a coordinar la reunión!</p>
+<div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;
+width: 320px;">
+<p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank"></a></p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank">
+<p><i class="fa-brands fa-slack fa-2x" aria-label="slack"></i> Únete al chat grupal en Slack</p>
+</a><p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank"></a></p>
+</div>
+<!---
+::: {style="margin-top: 42px;"}
+
+![](reu_santiagorusers_1_afiche.png)
+
+:::
+--->
+<p><em>Recuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el <a href="https://ropensci.org/es/código-de-conducta/">código de conducta</a>, que busca asegurar un espacio seguro e inclusivo para todas las personas.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>reuniones</category>
+  <guid>https://santiagoRusers.github.io/posts/reunion_mayo_2026/</guid>
+  <pubDate>Mon, 25 May 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/reunion_mayo_2026/cordillera_5.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Junta de usuari@s de R: 28 de abril, 2026</title>
   <dc:creator>Grupo de usuari@s de R</dc:creator>
