@@ -1,31 +1,45 @@
 [
   {
+    "objectID": "pendientes.html",
+    "href": "pendientes.html",
+    "title": "Grupo de usuari@s de R: Santiago",
+    "section": "",
+    "text": "pensar una paleta de colores bonita (quizás el atardecer en la cordillera?)\ncambiar el tema\nescribir presentación\ngestionar link .rbind.io?\nhacer post de primera invitación"
+  },
+  {
+    "objectID": "pendientes.html#pendientes",
+    "href": "pendientes.html#pendientes",
+    "title": "Grupo de usuari@s de R: Santiago",
+    "section": "",
+    "text": "pensar una paleta de colores bonita (quizás el atardecer en la cordillera?)\ncambiar el tema\nescribir presentación\ngestionar link .rbind.io?\nhacer post de primera invitación"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Grupo de usuari@s de R: Santiago",
     "section": "",
-    "text": "Junta de usuari@s de R: 27 de mayo, 2026\n\n\n\nreuniones\n\n\n\nTercera reunión online de usuari@s de R de Santiago y Chile! Esta vez hablamos de temáticas de desigualdad social, biología, e inteligencia artificial.\n\n\n\n\n\n27 may 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nReunión mensual de usuari@s de R: mayo\n\n\n\nreuniones\n\n\n\n\n\n\n\n\n\n25 may 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 28 de abril, 2026\n\n\n\nreuniones\n\n\n\nTuvimos nuestra segunda reunión online de usuarios/as de R de Santiago y Chile! Nuevamente se sumaron más de 10 personas para conversar, compartir y reflexionar en torno al análisis de datos.\n\n\n\n\n\n28 abr 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nReunión mensual de usuari@s de R: abril\n\n\n\nreuniones\n\n\n\n\n\n\n\n\n\n15 abr 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nChat de la comunidad en Slack\n\n\n\nnoticias\n\n\n\nCreamos un grupo de Slack para que podamos mantener el contacto entre reuniones, conversar y conocernos mejor. Únete!\n\n\n\n\n\n31 mar 2026\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 18 de marzo, 2026\n\n\n\nreuniones\n\n\n\nYa fue nuestra primera junta online de usuarios/as de R! Muchas gracias a las más de 10 personas que participaron y compartieron experiencias y conocimientos. Nos vemos el próximo mes!\n\n\n\n\n\n18 mar 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nPrimera reunión\n\n\n\nnoticias\n\nreuniones\n\n\n\n\n\n\n\n\n\n12 mar 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\n¡Hola usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
+    "text": "Taller: crea tu propia página web con Quarto y R\n\n\n\ntalleres\n\n\n\n\n\n\n\n\n\n29 jul 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 27 de mayo, 2026\n\n\n\nreuniones\n\n\n\nTercera reunión online de usuari@s de R de Santiago y Chile! Esta vez hablamos de temáticas de desigualdad social, biología, e inteligencia artificial.\n\n\n\n\n\n27 may 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nReunión mensual de usuari@s de R: mayo\n\n\n\nreuniones\n\n\n\n\n\n\n\n\n\n25 may 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 28 de abril, 2026\n\n\n\nreuniones\n\n\n\nTuvimos nuestra segunda reunión online de usuarios/as de R de Santiago y Chile! Nuevamente se sumaron más de 10 personas para conversar, compartir y reflexionar en torno al análisis de datos.\n\n\n\n\n\n28 abr 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nReunión mensual de usuari@s de R: abril\n\n\n\nreuniones\n\n\n\n\n\n\n\n\n\n15 abr 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nChat de la comunidad en Slack\n\n\n\nnoticias\n\n\n\nCreamos un grupo de Slack para que podamos mantener el contacto entre reuniones, conversar y conocernos mejor. Únete!\n\n\n\n\n\n31 mar 2026\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 18 de marzo, 2026\n\n\n\nreuniones\n\n\n\nYa fue nuestra primera junta online de usuarios/as de R! Muchas gracias a las más de 10 personas que participaron y compartieron experiencias y conocimientos. Nos vemos el próximo mes!\n\n\n\n\n\n18 mar 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nPrimera reunión\n\n\n\nnoticias\n\nreuniones\n\n\n\n\n\n\n\n\n\n12 mar 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\n¡Hola usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Acerca de",
+    "objectID": "posts/reunion_mayo_2026/index.html",
+    "href": "posts/reunion_mayo_2026/index.html",
+    "title": "Reunión mensual de usuari@s de R: mayo",
     "section": "",
-    "text": "Sitio web de la comunidad de usuarias y usuarios de R en Chile.\nOrganizado por Bastián Olea y Carolina Morales\nCódigo del sitio en Github"
+    "text": "Esta semana es la tercera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nYa llevamos dos reuniones, ambas siendo espacios muy amenos de conversación, debate y aprendizaje desde distintas disciplinas.\nLas reuniones son espacios de intercambio de experiencias y conversación centrados en datos, información geoespacial, estadísticas, inteligencia artificial y código abierto.\nEn esta tercera reunión buscamos personas que quieran compartir experiencias y usos de R, así que puedes ir pensando en algo que compartir o presentar en vivo.\n\n\nReunión de mayo:\n\n27 de mayo de 2026, 19:30 hrs. (Santiago), online\n\nConéctate a la reunión por Zoom en este enlace, y/o agrégala a tu calendario:\n\n\n Agregar a Google Calendar\n\n\n\n\n Agregar a Calendario\n\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X \nPor mientras puedes unirte al chat grupal para conversar y ayudar a coordinar la reunión!\n\n\n Únete al chat grupal en Slack\n\n\n\nRecuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el código de conducta, que busca asegurar un espacio seguro e inclusivo para todas las personas."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/primera_reunion/index.html",
+    "href": "posts/primera_reunion/index.html",
+    "title": "Primera reunión",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Anunciamos la primera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nEstamos muy felices de poder conocer a mas personas que usen este lenguaje en las más diversas temáticas y disciplinas! 🎉\n Visita la página de participación para inscribirte!\n\nPrimera reunión:\n\n18 de marzo de 2026, 19:30 hrs. (Santiago), online\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/reunion_abril_2026/index.html",
+    "href": "posts/reunion_abril_2026/index.html",
+    "title": "Reunión mensual de usuari@s de R: abril",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Se viene la segunda reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nLuego de una primera reunión muy entretenida, donde vimos usos de R en disciplinas diversas y compartimos nuestros proyectos, nos reuniremos nuevamente para seguir compartiendo experiencias con R.\n Visita la página de participación para inscribirte!\n\nReunión de abril:\n\n28 de abril de 2026, 19:30 hrs. (Santiago), online\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X \nPor mientras puedes unirte al chat grupal para conversar y ayudar a coordinar la reunión!\n\n\n Únete al chat grupal en Slack"
   },
   {
     "objectID": "posts/bienvenida/index.html",
@@ -35,32 +49,11 @@
     "text": "Este será el sitio web de la comunidad de usuari@s de R en Santiago de Chile. Únete y participa!\nEsperamos que sea un espacio para compartir conocimientos, aprendizajes, dudas, proyectos, y más!\nPuedes inscribirte para recibir el enlace y participar en la siguiente reunión."
   },
   {
-    "objectID": "introduccion.html",
-    "href": "introduccion.html",
-    "title": "Participa",
+    "objectID": "participa.html",
+    "href": "participa.html",
+    "title": "Participa!",
     "section": "",
-    "text": "Participa en las reuniones dela comunidad de usuarias y usuarios de R en Santiago!\nEstas reuniones serán mensuales y abiertas a personas que usen R de forma regular.\nSi bien el grupo de usuarixs se concentra en Santiago de Chile, pueden participar personas de cualquier región del país!"
-  },
-  {
-    "objectID": "about.html#código-de-conducta",
-    "href": "about.html#código-de-conducta",
-    "title": "Acerca de",
-    "section": "Código de conducta",
-    "text": "Código de conducta\nNos adherimos al código de conducta de ROpenSci. Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
-  },
-  {
-    "objectID": "pendientes.html",
-    "href": "pendientes.html",
-    "title": "R Chile",
-    "section": "",
-    "text": "pensar una paleta de colores bonita (quizás el atardecer en la cordillera?)\ncambiar el tema\nescribir presentación\ngestionar link .rbind.io?\nhacer post de primera invitación"
-  },
-  {
-    "objectID": "pendientes.html#pendientes",
-    "href": "pendientes.html#pendientes",
-    "title": "R Chile",
-    "section": "",
-    "text": "pensar una paleta de colores bonita (quizás el atardecer en la cordillera?)\ncambiar el tema\nescribir presentación\ngestionar link .rbind.io?\nhacer post de primera invitación"
+    "text": "Súmate a las reuniones de la comunidad de usuarias y usuarios de R en Santiago\n Estas reuniones serán mensuales y abiertas a personas que usen R de forma regular.\n Si bien el grupo de usuarixs se concentra en Santiago de Chile, pueden participar personas de cualquier región del país!\n El objetivo es crear comunidad, conocer lo que estamos haciendo, y compartir aprendizajes!\n\nEn cada reunión podremos compartir algo que estemos haciendo con R, como proyectos de investigación, visualizaciones de datos, aplicaciones, paquetes, y más!\nTambién podremos plantear preguntas para ayudarnos entre nosotrxs.\nCompartiremos actividades como trivias, desafíos de código, presentaciones temáticas y más!\n\n Las reuniones serán por videoconferencia, pero no descartamos futuras reuniones presenciales!\n Se trata de un espacio seguro e inclusivo, donde no se tolerará ningún tipo de discriminación o acoso. Revisa el código de conducta.\n\n\n\nPróxima reunión:\n\n29 de julio de 2026, 19:30 hrs. (Santiago), online\n\n\n\n\n Agregar a Google Calendar\n\n\n\n\n\n Descargar para Calendario\n\n\n\n\nReuniones siguientes:\n\n26 de agosto de 2026, 19:30 hrs. (Santiago), online\n23 de septiembre de 2026, 19:30 hrs. (Santiago), presencial! 🎉\n28 de octubre de 2026, 19:30 hrs. (Santiago), online\n25 de noviembre de 2026, 19:30 hrs. (Santiago), online\n\nNos puedes ayudar difundiendo la iniciativa en LinkedIn  y en Twitter/X .\nEn el intertanto, podemos conversar por Slack! \n\n\nReuniones pasadas:\n\n27 de mayo de 2026, 19:30 hrs. (Santiago), online\n28 de abril de 2026, 19:30 hrs. (Santiago), online\n18 de marzo de 2026, 19:30 hrs. (Santiago), online"
   },
   {
     "objectID": "code_of_conduct.html",
@@ -147,18 +140,25 @@
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n    &lt;one line to give the program's name and a brief idea of what it does.&gt;\n    Copyright (C) &lt;year&gt;  &lt;name of author&gt;\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU Affero General Public License as\n    published by the Free Software Foundation, either version 3 of the\n    License, or (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU Affero General Public License for more details.\n\n    You should have received a copy of the GNU Affero General Public License\n    along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf your software can interact with users remotely through a computer network, you should also make sure that it provides a way for users to get its source. For example, if your program is a web application, its interface could display a “Source” link that leads users to an archive of the code. There are many ways you could offer source, and different solutions will be better for different programs; see section 13 for the specific requirements.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU AGPL, see https://www.gnu.org/licenses/."
   },
   {
-    "objectID": "participa.html",
-    "href": "participa.html",
-    "title": "Participa!",
+    "objectID": "posts/2026-05-27/index.html",
+    "href": "posts/2026-05-27/index.html",
+    "title": "Junta de usuari@s de R: 27 de mayo, 2026",
     "section": "",
-    "text": "Súmate a las reuniones de la comunidad de usuarias y usuarios de R en Santiago\n Estas reuniones serán mensuales y abiertas a personas que usen R de forma regular.\n Si bien el grupo de usuarixs se concentra en Santiago de Chile, pueden participar personas de cualquier región del país!\n El objetivo es crear comunidad, conocer lo que estamos haciendo, y compartir aprendizajes!\n\nEn cada reunión podremos compartir algo que estemos haciendo con R, como proyectos de investigación, visualizaciones de datos, aplicaciones, paquetes, y más!\nTambién podremos plantear preguntas para ayudarnos entre nosotrxs.\nCompartiremos actividades como trivias, desafíos de código, presentaciones temáticas y más!\n\n Las reuniones serán por videoconferencia, pero no descartamos futuras reuniones presenciales!\n Se trata de un espacio seguro e inclusivo, donde no se tolerará ningún tipo de discriminación o acoso. Revisa el código de conducta.\n\n\n\nPróximas reuniones:\n\n29 de julio de 2026, 19:30 hrs. (Santiago), online\n26 de agosto de 2026, 19:30 hrs. (Santiago), online\n23 de septiembre de 2026, 19:30 hrs. (Santiago), presencial! 🎉\n28 de octubre de 2026, 19:30 hrs. (Santiago), online\n25 de noviembre de 2026, 19:30 hrs. (Santiago), online\n\n\nNos puedes ayudar difundiendo la iniciativa en LinkedIn  y en Twitter/X .\nEn el intertanto, podemos conversar por Slack! \n\n\nReuniones pasadas:\n\n27 de mayo de 2026, 19:30 hrs. (Santiago), online\n28 de abril de 2026, 19:30 hrs. (Santiago), online\n18 de marzo de 2026, 19:30 hrs. (Santiago), online"
+    "text": "En esta tercera reunión online de usuarios/as de R conversamos sobre desigualdad social, biología, inteligencia artificial, y más!\nPudimos explorar varias plataformas interactivas desarrolladas con R y dar comentarios y críticas constructivas, conversando también sobre el uso que hacemos de los modelos de lenguaje o inteligencia artificial para ayudarnos en el desarrollo de nuestros proyectos.\nTambién pudimos revisar noticias recientes sobre la comunidad de R, como las actualizaciones de R a su versión 4.6, o de {dplyr} a su versión 1.2.0.\nNos vemos en la junta del próximo mes, así que atención a nuestras redes sociales para mantenernos en contacto! ✨"
   },
   {
-    "objectID": "posts/primera_reunion/index.html",
-    "href": "posts/primera_reunion/index.html",
-    "title": "Primera reunión",
+    "objectID": "posts/2026-04-28/index.html",
+    "href": "posts/2026-04-28/index.html",
+    "title": "Junta de usuari@s de R: 28 de abril, 2026",
     "section": "",
-    "text": "Anunciamos la primera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nEstamos muy felices de poder conocer a mas personas que usen este lenguaje en las más diversas temáticas y disciplinas! 🎉\n Visita la página de participación para inscribirte!\n\nPrimera reunión:\n\n18 de marzo de 2026, 19:30 hrs. (Santiago), online\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X"
+    "text": "En esta segunda reunión online de usuarios/as de R nos encontramos con usuari@s que usan R en ámbitos como geología, biología, ingeniería, ecología, ciencias políticas, salud, transporte, y más!\nAlgunos temas que conversamos:\n\nTransformación digital y los beneficios traer y proponer tecnologías como R en nuestras organizaciones/empresas\nLa potencia de programadores/as de R, que venimos de distintas disciplina y tenemos perspectivas particulares, versus programadores tradicionales, así como las desventajas\nLa importancia del storytelling y el relato al presentar datos como un factor que diferencia los productos posibles\nEl uso ético de la inteligencia artificial y el impacto que puede tener en labores ligadas a la investigación y el análisis de datos\n\nUsos de R que surgieron en la reunión:\n\nPlataformas de análisis de datos con storytelling para presentar resultado de investigaciones de ciencias sociales\nUso de Shiny para programar encuestas complejas que reaccionan y se adaptan a las respuestas entregadas\nDistintas estrategias para gestionar la complejidad del código de aplicaciones Shiny\nAnálisis y visualización de datos espaciales usando datos satelitales para estudios sobre ecohidrología\nUso de funciones de R por medio de modelos de lenguaje (tool calling) para obtener datos precisos\n\nNos vemos en la junta del próximo mes, así que atención a nuestras redes sociales para mantenernos en contacto ✨"
+  },
+  {
+    "objectID": "posts/taller_julio_2026/index.html",
+    "href": "posts/taller_julio_2026/index.html",
+    "title": "Taller: crea tu propia página web con Quarto y R",
+    "section": "",
+    "text": "Para la reunión mensual del mes de julio, el grupo de usuarias/os de R de Santiago de Chile les invita a un taller!\n\n¡Los dejamos cordialmente invitados a una nueva reunión de R Users Santiago!\nEn esta edición especial tendremos el taller Crea tu página web con Quarto y R, dictado por Bastián Olea Herrera.\nDurante el taller aprenderás a crear una página web utilizando Quarto, una herramienta sencilla y potente que te permitirá mostrar tu trabajo, proyectos, publicaciones, portafolio y mucho más, y también veremos cómo subir esta página a tu propio sitio gracias a GitHub Pages, para que cualquier persona pueda verla.\n Antes de la reunión, asegúrate de tener:\n\nR y RStudio instalados (ver instrucciones aquí)\nEl paquete de R Quarto instalado: install.packages(\"quarto\")\nUna cuenta de GitHub creada, ya que la utilizaremos para publicar nuestra página web!\n\n¡Nos vemos el miércoles 29 de julio! \n\nTaller de julio:\n\n29 de julio de 2026, 19:30 hrs. (Santiago), online\n\nConéctate a la reunión por Zoom en este enlace, y/o agrégala a tu calendario:\n\n\n\n Agregar a Google Calendar\n\n\n\n\n\n Descargar para Calendario\n\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X \nPor mientras puedes unirte al chat grupal para conversar y ayudar a coordinar la reunión!\n\n\n Únete al chat grupal en Slack\n\n\n\nRecuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el código de conducta, que busca asegurar un espacio seguro e inclusivo para todas las personas."
   },
   {
     "objectID": "posts/2026-03-18/index.html",
@@ -175,31 +175,17 @@
     "text": "En Slack tendremos un chat grupal para poder mantenernos en contacto.\n\n\n Únete al chat grupal en Slack\n\n\nEl chat se divide en distintos canales para ordenar la conversación:\n\n#bienvenidas para que te presentes y nos cuentes más de ti!\n#reuniones para coordinarnos sobre las juntas y conversar durante las reuniones\n#general para charlar sobre cualquier tema relacionado a R y la comunidad\n#ayuda_r para pedir ayuda o plantear consultas sobre tus proyectos\n#aprende_R para consultas básicas y aprender el lenguaje\n#informal para hablar de cualquier cosa que queramos, guardando el respeto y respetando el código de conducta\n\n Únete a nuestro grupo de Slack!"
   },
   {
-    "objectID": "posts/reunion_abril_2026/index.html",
-    "href": "posts/reunion_abril_2026/index.html",
-    "title": "Reunión mensual de usuari@s de R: abril",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
     "section": "",
-    "text": "Se viene la segunda reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nLuego de una primera reunión muy entretenida, donde vimos usos de R en disciplinas diversas y compartimos nuestros proyectos, nos reuniremos nuevamente para seguir compartiendo experiencias con R.\n Visita la página de participación para inscribirte!\n\nReunión de abril:\n\n28 de abril de 2026, 19:30 hrs. (Santiago), online\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X \nPor mientras puedes unirte al chat grupal para conversar y ayudar a coordinar la reunión!\n\n\n Únete al chat grupal en Slack"
+    "text": "Sitio web de la comunidad de usuarias y usuarios de R en Chile.\nOrganizado por Bastián Olea y Carolina Morales\nCódigo del sitio en Github"
   },
   {
-    "objectID": "posts/2026-04-28/index.html",
-    "href": "posts/2026-04-28/index.html",
-    "title": "Junta de usuari@s de R: 28 de abril, 2026",
-    "section": "",
-    "text": "En esta segunda reunión online de usuarios/as de R nos encontramos con usuari@s que usan R en ámbitos como geología, biología, ingeniería, ecología, ciencias políticas, salud, transporte, y más!\nAlgunos temas que conversamos:\n\nTransformación digital y los beneficios traer y proponer tecnologías como R en nuestras organizaciones/empresas\nLa potencia de programadores/as de R, que venimos de distintas disciplina y tenemos perspectivas particulares, versus programadores tradicionales, así como las desventajas\nLa importancia del storytelling y el relato al presentar datos como un factor que diferencia los productos posibles\nEl uso ético de la inteligencia artificial y el impacto que puede tener en labores ligadas a la investigación y el análisis de datos\n\nUsos de R que surgieron en la reunión:\n\nPlataformas de análisis de datos con storytelling para presentar resultado de investigaciones de ciencias sociales\nUso de Shiny para programar encuestas complejas que reaccionan y se adaptan a las respuestas entregadas\nDistintas estrategias para gestionar la complejidad del código de aplicaciones Shiny\nAnálisis y visualización de datos espaciales usando datos satelitales para estudios sobre ecohidrología\nUso de funciones de R por medio de modelos de lenguaje (tool calling) para obtener datos precisos\n\nNos vemos en la junta del próximo mes, así que atención a nuestras redes sociales para mantenernos en contacto ✨"
-  },
-  {
-    "objectID": "posts/reunion_mayo_2026/index.html",
-    "href": "posts/reunion_mayo_2026/index.html",
-    "title": "Reunión mensual de usuari@s de R: mayo",
-    "section": "",
-    "text": "Esta semana es la tercera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nYa llevamos dos reuniones, ambas siendo espacios muy amenos de conversación, debate y aprendizaje desde distintas disciplinas.\nLas reuniones son espacios de intercambio de experiencias y conversación centrados en datos, información geoespacial, estadísticas, inteligencia artificial y código abierto.\nEn esta tercera reunión buscamos personas que quieran compartir experiencias y usos de R, así que puedes ir pensando en algo que compartir o presentar en vivo.\n\n\nReunión de mayo:\n\n27 de mayo de 2026, 19:30 hrs. (Santiago), online\n\nConéctate a la reunión por Zoom en este enlace, y/o agrégala a tu calendario:\n\n\n Agregar a Google Calendar\n\n\n\n\n Agregar a Calendario\n\n\nNos puedes ayudar difundiendo el aviso de la reunión en LinkedIn  y en Twitter/X \nPor mientras puedes unirte al chat grupal para conversar y ayudar a coordinar la reunión!\n\n\n Únete al chat grupal en Slack\n\n\n\nRecuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el código de conducta, que busca asegurar un espacio seguro e inclusivo para todas las personas."
-  },
-  {
-    "objectID": "posts/2026-05-27/index.html",
-    "href": "posts/2026-05-27/index.html",
-    "title": "Junta de usuari@s de R: 27 de mayo, 2026",
-    "section": "",
-    "text": "En esta tercera reunión online de usuarios/as de R conversamos sobre desigualdad social, biología, inteligencia artificial, y más!\nPudimos explorar varias plataformas interactivas desarrolladas con R y dar comentarios y críticas constructivas, conversando también sobre el uso que hacemos de los modelos de lenguaje o inteligencia artificial para ayudarnos en el desarrollo de nuestros proyectos.\nTambién pudimos revisar noticias recientes sobre la comunidad de R, como las actualizaciones de R a su versión 4.6, o de {dplyr} a su versión 1.2.0.\nNos vemos en la junta del próximo mes, así que atención a nuestras redes sociales para mantenernos en contacto! ✨"
+    "objectID": "about.html#código-de-conducta",
+    "href": "about.html#código-de-conducta",
+    "title": "Acerca de",
+    "section": "Código de conducta",
+    "text": "Código de conducta\nNos adherimos al código de conducta de ROpenSci. Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
   }
 ]

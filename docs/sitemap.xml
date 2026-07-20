@@ -1,84 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-02-17T16:32:27.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/about.html</loc>
-    <lastmod>2026-02-17T20:51:44.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/index.html</loc>
-    <lastmod>2026-03-12T13:19:42.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-02-17T16:30:38.798Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-02-17T16:30:38.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/posts/bienvenida/index.html</loc>
-    <lastmod>2026-03-12T13:38:54.386Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/introduccion.html</loc>
-    <lastmod>2026-03-12T13:39:50.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/pendientes.html</loc>
-    <lastmod>2026-02-17T21:30:13.654Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/code_of_conduct.html</loc>
-    <lastmod>2026-03-12T12:31:13.234Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserschile.github.io/license.html</loc>
-    <lastmod>2026-03-12T12:31:14.027Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserssantiago.github.io/about.html</loc>
-    <lastmod>2026-02-17T20:51:44.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserssantiago.github.io/introduccion.html</loc>
-    <lastmod>2026-03-12T13:39:50.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserssantiago.github.io/index.html</loc>
-    <lastmod>2026-03-12T13:19:42.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ruserssantiago.github.io/posts/bienvenida/index.html</loc>
-    <lastmod>2026-03-12T13:38:54.386Z</lastmod>
+    <loc>https://santiagoRusers.github.io/pendientes.html</loc>
+    <lastmod>2026-07-20T16:30:25.238Z</lastmod>
   </url>
   <url>
     <loc>https://santiagoRusers.github.io/index.html</loc>
     <lastmod>2026-03-12T14:16:18.747Z</lastmod>
   </url>
   <url>
-    <loc>https://santiagoRusers.github.io/posts/bienvenida/index.html</loc>
-    <lastmod>2026-03-12T23:48:49.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/about.html</loc>
-    <lastmod>2026-04-29T13:01:42.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/introduccion.html</loc>
-    <lastmod>2026-03-12T19:05:34.305Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/participa.html</loc>
-    <lastmod>2026-07-20T16:32:05.928Z</lastmod>
+    <loc>https://santiagoRusers.github.io/posts/reunion_mayo_2026/index.html</loc>
+    <lastmod>2026-05-25T15:53:55.097Z</lastmod>
   </url>
   <url>
     <loc>https://santiagoRusers.github.io/posts/primera_reunion/index.html</loc>
     <lastmod>2026-03-17T14:55:19.217Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/posts/reunion_abril_2026/index.html</loc>
+    <lastmod>2026-04-15T14:31:52.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/posts/bienvenida/index.html</loc>
+    <lastmod>2026-03-12T20:11:27.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/participa.html</loc>
+    <lastmod>2026-07-20T19:32:22.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/code_of_conduct.html</loc>
+    <lastmod>2026-02-17T20:51:31.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/license.html</loc>
+    <lastmod>2026-02-17T20:50:49.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/posts/2026-05-27/index.html</loc>
+    <lastmod>2026-07-20T16:27:05.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/posts/2026-04-28/index.html</loc>
+    <lastmod>2026-04-29T12:46:29.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://santiagoRusers.github.io/posts/taller_julio_2026/index.html</loc>
+    <lastmod>2026-07-20T19:33:08.066Z</lastmod>
   </url>
   <url>
     <loc>https://santiagoRusers.github.io/posts/2026-03-18/index.html</loc>
@@ -86,22 +54,10 @@
   </url>
   <url>
     <loc>https://santiagoRusers.github.io/posts/chat_slack/index.html</loc>
-    <lastmod>2026-04-29T01:26:03.110Z</lastmod>
+    <lastmod>2026-03-31T16:42:02.262Z</lastmod>
   </url>
   <url>
-    <loc>https://santiagoRusers.github.io/posts/reunion_abril_2026/index.html</loc>
-    <lastmod>2026-04-29T01:26:03.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/posts/2026-04-28/index.html</loc>
-    <lastmod>2026-05-23T01:30:56.370Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/posts/reunion_mayo_2026/index.html</loc>
-    <lastmod>2026-05-25T15:53:55.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://santiagoRusers.github.io/posts/2026-05-27/index.html</loc>
-    <lastmod>2026-07-20T16:27:05.992Z</lastmod>
+    <loc>https://santiagoRusers.github.io/about.html</loc>
+    <lastmod>2026-04-29T13:01:42.019Z</lastmod>
   </url>
 </urlset>

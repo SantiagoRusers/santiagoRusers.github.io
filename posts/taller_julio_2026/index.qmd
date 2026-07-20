@@ -1,0 +1,77 @@
+---
+title: "Taller: crea tu propia página web con Quarto y R"
+author: "Carolina Morales y Bastián Olea"
+date: "2026-07-29"
+image: "afiche_rusers_stgo_julio.jpg"
+categories: [talleres]
+---
+
+Para la reunión mensual del mes de julio, el grupo de usuarias/os de R de Santiago de Chile les invita a un **taller**! 
+
+![](afiche_rusers_stgo_julio.jpg)
+
+¡Los dejamos cordialmente invitados a una nueva reunión de _R Users Santiago_! 
+
+En esta edición especial tendremos el taller **Crea tu página web con Quarto y R**, dictado por [Bastián Olea Herrera](htpps://bastianolea.rbind.io).
+
+Durante el taller aprenderás a crear una página web utilizando Quarto, una herramienta sencilla y potente que te permitirá mostrar tu trabajo, proyectos, publicaciones, portafolio y mucho más, y también veremos cómo subir esta página a tu propio sitio gracias a GitHub Pages, para que cualquier persona pueda verla.
+
+
+{{< fa laptop-code size=2x >}} Antes de la reunión, asegúrate de tener:
+
+* **R** y **RStudio** instalados ([ver instrucciones aquí](https://bastianolea.github.io/aprende_r/#obtener-r))
+* El paquete de R **Quarto** instalado: `install.packages("quarto")`
+* Una cuenta de **GitHub** creada, ya que la utilizaremos para publicar nuestra página web!
+
+¡Nos vemos el miércoles 29 de julio! {{< fa heart size=2x >}}
+
+### Taller de julio:
+- 29 de julio de 2026, 19:30 hrs. (Santiago), online
+
+
+[Conéctate a la reunión por Zoom en este enlace](https://us06web.zoom.us/j/87800697219?pwd=zhMlOjGnAkG001JbO1S1oMVkdgU63m.1
+), y/o agrégala a tu calendario:
+
+<!-- botón de google calendar --->
+:::{.boton}
+<a href = "https://calendar.app.google/sdBpWQPjWXvHT6qy5" 
+target = "_blank">
+
+{{< fa calendar size=2x >}} Agregar a Google Calendar
+
+</a>
+:::
+
+<!-- botón de descargar calendario --->
+:::{.boton}
+<a href="evento_r_chile.ics" 
+download="evento_r_chile.ics">
+
+{{< fa calendar-plus size=2x >}} Descargar para Calendario
+
+</a>
+:::
+
+
+Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/)
+
+Por mientras puedes unirte al **chat grupal** para conversar y ayudar a coordinar la reunión!
+
+<div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;
+width: 320px;">
+  <a href = "https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" 
+  style="text-decoration: none; color: #FDF4F8;" target = "_blank">
+  
+  {{< fa brands slack size=2x >}} Únete al chat grupal en Slack
+    
+  </a>
+</div>
+<!---
+::: {style="margin-top: 42px;"}
+
+![](reu_santiagorusers_1_afiche.png)
+
+:::
+--->
+
+_Recuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el [código de conducta](https://ropensci.org/es/código-de-conducta/), que busca asegurar un espacio seguro e inclusivo para todas las personas._
