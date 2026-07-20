@@ -1,7 +1,4 @@
-
-
 ## Pendientes
-
 
 - [ ] pensar una paleta de colores bonita (quizás el atardecer en la cordillera?)
 - [ ] cambiar el tema

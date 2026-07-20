@@ -1,0 +1,24 @@
+---
+title: "Junta de usuari@s de R: 27 de mayo, 2026"
+author: "Grupo de usuari@s de R"
+date: "2026-05-27"
+image: "santiago_r_users_1.jpeg"
+categories: [reuniones]
+lightbox: true
+description: "Tercera reunión online de usuari@s de R de Santiago y Chile! Esta vez hablamos de temáticas de desigualdad social, biología, e inteligencia artificial."
+---
+
+En esta **tercera** reunión online de usuarios/as de R conversamos sobre **desigualdad social, biología, inteligencia artificial**, y más! 
+
+Pudimos explorar varias plataformas interactivas desarrolladas con R y dar comentarios y críticas constructivas, conversando también sobre el uso que hacemos de los modelos de lenguaje o inteligencia artificial para ayudarnos en el desarrollo de nuestros proyectos. 
+
+También pudimos revisar noticias recientes sobre la comunidad de R, como las actualizaciones de R a su versión 4.6, o de `{dplyr}` a su versión 1.2.0.
+
+[Nos vemos en la junta del próximo mes](/participa.html), así que [atención a nuestras redes sociales](/about.html) para mantenernos en contacto! ✨
+
+::: {.galeria}
+![](santiago_r_users_1.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_4.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_6.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_8.jpeg){.fotito .lightbox group="galeria"}
+:::

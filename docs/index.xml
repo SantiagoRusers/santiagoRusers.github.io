@@ -10,7 +10,33 @@
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 25 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Junta de usuari@s de R: 27 de mayo, 2026</title>
+  <dc:creator>Grupo de usuari@s de R</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/2026-05-27/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>En esta <strong>tercera</strong> reunión online de usuarios/as de R conversamos sobre <strong>desigualdad social, biología, inteligencia artificial</strong>, y más!</p>
+<p>Pudimos explorar varias plataformas interactivas desarrolladas con R y dar comentarios y críticas constructivas, conversando también sobre el uso que hacemos de los modelos de lenguaje o inteligencia artificial para ayudarnos en el desarrollo de nuestros proyectos.</p>
+<p>También pudimos revisar noticias recientes sobre la comunidad de R, como las actualizaciones de R a su versión 4.6, o de <code>{dplyr}</code> a su versión 1.2.0.</p>
+<p><a href="../../participa.html">Nos vemos en la junta del próximo mes</a>, así que <a href="../../about.html">atención a nuestras redes sociales</a> para mantenernos en contacto! ✨</p>
+<div class="galeria">
+<p><a href="santiago_r_users_1.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-05-27/santiago_r_users_1.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_4.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-05-27/santiago_r_users_4.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_6.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-05-27/santiago_r_users_6.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_8.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-05-27/santiago_r_users_8.jpeg" class="fotito img-fluid"></a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>reuniones</category>
+  <guid>https://santiagoRusers.github.io/posts/2026-05-27/</guid>
+  <pubDate>Wed, 27 May 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/2026-05-27/santiago_r_users_1.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reunión mensual de usuari@s de R: mayo</title>
   <dc:creator>Carolina Morales y Bastián Olea</dc:creator>
