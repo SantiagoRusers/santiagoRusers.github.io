@@ -1,5 +1,5 @@
 ---
-title: "Taller: crea tu propia página web con Quarto y R"
+title: "Taller: Crea tu propia página web con Quarto y R"
 author: "Carolina Morales y Bastián Olea"
 date: "2026-07-29"
 image: "afiche_rusers_stgo_julio.jpg"

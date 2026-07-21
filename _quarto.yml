@@ -38,6 +38,8 @@ format:
     lang: "es"
     theme: [litera, brand, styles.scss]
     mainfont: "Livvic"
+    include-in-header: 
+      - text: <meta name="google-site-verification" content="6IZLY44JH6r8sFwWW534xMc1YqsV1BPMOvJP6mi6E6Y" />
 
 
 
