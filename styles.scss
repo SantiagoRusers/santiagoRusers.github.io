@@ -1,7 +1,9 @@
 /*-- scss:defaults --*/
-$primary: #FDEDF4;
+/*$primary: #FDEDF4;*/
+$primary: #FBDBEA;
 
-$body-bg: #FDF4F8;
+/*$body-bg: #FDF4F8;*/
+$body-bg: #FAE3EE;
 $body-color: #593957;
 $secondary: #E3467C;
 $tertiary: #6A3274;
@@ -35,7 +37,8 @@ color: $body-color !important;
 }
 
 code {
-  background-color: rgba(236, 223, 229, 0.65) !important;
+  background-color: #F8D5E5 !important;
+  color: #8B3F87 !important;
 }
 
 .alert-primary {
@@ -54,9 +57,9 @@ code {
 
 // etiquetas de posts
 .listing-category, .quarto-category {
-  border-color: #89598F !important;
-  color: $primary !important;
-  background-color: #B493B6;
+  border-color: #8b4b93 !important;
+  color: #ffecf5 !important;
+  background-color: #a377a6 !important;
 }
 
 .metadata, .quarto-title-meta {
@@ -110,4 +113,16 @@ h4 {
 
 .boton p {
   margin: 0;
+}
+
+/* cuadro con título de posts */
+.quarto-title-banner {
+  border-bottom: solid 1px #f2d0e0;
+}
+
+
+.navbar {
+  border: none !important;
+  background-color: #fbd0e4;
+  border-bottom: solid 1px #eebcd3 !important;
 }

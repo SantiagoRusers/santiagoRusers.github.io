@@ -9,7 +9,7 @@
 <link>https://santiagoRusers.github.io/</link>
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Wed, 29 Jul 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Taller: crea tu propia página web con Quarto y R</title>
@@ -24,7 +24,7 @@
 <p>Para la reunión mensual del mes de julio, el grupo de usuarias/os de R de Santiago de Chile les invita a un <strong>taller</strong>!</p>
 <p><img src="https://santiagoRusers.github.io/posts/taller_julio_2026/afiche_rusers_stgo_julio.jpg" class="img-fluid"></p>
 <p>¡Los dejamos cordialmente invitados a una nueva reunión de <em>R Users Santiago</em>!</p>
-<p>En esta edición especial tendremos el taller <strong>Crea tu página web con Quarto y R</strong>, dictado por <a href="htpps://bastianolea.rbind.io">Bastián Olea Herrera</a>.</p>
+<p>En esta edición especial tendremos el taller <strong>Crea tu página web con Quarto y R</strong>, dictado por <a href="https://bastianolea.rbind.io">Bastián Olea Herrera</a>.</p>
 <p>Durante el taller aprenderás a crear una página web utilizando Quarto, una herramienta sencilla y potente que te permitirá mostrar tu trabajo, proyectos, publicaciones, portafolio y mucho más, y también veremos cómo subir esta página a tu propio sitio gracias a GitHub Pages, para que cualquier persona pueda verla.</p>
 <p><i class="fa-solid fa-laptop-code fa-2x" aria-label="laptop-code"></i> Antes de la reunión, asegúrate de tener:</p>
 <ul>

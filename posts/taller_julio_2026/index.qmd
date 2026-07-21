@@ -12,7 +12,7 @@ Para la reunión mensual del mes de julio, el grupo de usuarias/os de R de Santi
 
 ¡Los dejamos cordialmente invitados a una nueva reunión de _R Users Santiago_! 
 
-En esta edición especial tendremos el taller **Crea tu página web con Quarto y R**, dictado por [Bastián Olea Herrera](htpps://bastianolea.rbind.io).
+En esta edición especial tendremos el taller **Crea tu página web con Quarto y R**, dictado por [Bastián Olea Herrera](https://bastianolea.rbind.io).
 
 Durante el taller aprenderás a crear una página web utilizando Quarto, una herramienta sencilla y potente que te permitirá mostrar tu trabajo, proyectos, publicaciones, portafolio y mucho más, y también veremos cómo subir esta página a tu propio sitio gracias a GitHub Pages, para que cualquier persona pueda verla.
 
