@@ -9,7 +9,7 @@
 <link>https://santiagoRusers.github.io/</link>
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 27 Aug 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Taller: Explorando datos censales con mapas, dashboards e inteligencia artificial con R</title>

@@ -60,6 +60,13 @@
   image: "galeria/bcchr.jpg"
   description: "Interfaz para trabajar desde R con la Base de Datos Estadísticos del Banco Central de Chile."
   categories: [economía, datos, paquetes]
+  
+- title: Índice de Competitividad Regional
+  path: https://www.descentralizachile.cl/icr/
+  author: "Subsecretaría de Desarrollo Regional y Administrativo"
+  image: "galeria/icr.jpg"
+  description: "Plataforma para explorar un índice de competitividad de nivel regional, calculados a partir de 79 variables."
+  categories: [economía, social, datos, apps]
 
 - title: guaguas
   path: https://rivaquiroga.github.io/guaguas
