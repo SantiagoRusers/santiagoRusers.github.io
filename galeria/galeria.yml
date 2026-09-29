@@ -89,12 +89,19 @@
   description: Paquete para evaluar la precisión de estimaciones provenientes de encuestas de hogares, siguiendo metodologías del INE y CEPAL
   categories: [social, encuestas, paquetes]
   
+- title: Visor Simce
+  path: https://visorsimce.agenciaeducacion.cl
+  author: Agencia de Calidad de la Educación
+  image: "galeria/simce.png"
+  description: Dashboard para explorar de manera interactiva los resultados del Simce. Permite visualizar datos en distintos niveles de agregación, incluyendo análisis nacionales, de género, por dependencia educativa y a nivel territorial
+  categories: [educación, apps]  
+  
 - title: DesucTools
   path: https://blog.desuc.cl/desuctools/
   author: Cristián Ayala
   image: "galeria/desuc.jpg"
   description: Funciones y datos auxiliares para análisis de encuestas sociales utilizados por la Dirección de Estudios Sociales UC (DESUC)
-  categories: [paquetes]
+  categories: [social, encuestas, paquetes]
   
 - title: Hydrology Apps
   path: https://alobondo.github.io/hydrology_apps/
@@ -131,6 +138,13 @@
   image: "galeria/cep.jpg"
   categories: [social, encuestas, apps]
   
+- title: Retro-BAC
+  path: https://carlosespinozacruz-retro-bac.share.connect.posit.cloud
+  description: Application for retrograde extrapolation alcohol calculation with integrated IA Chatbot
+  author: Carlos Espinoza Cruz, Bastián Olea Herrera, José Moreno Paz, Yolanda Gómez Olmos, Andrés Alfaro Ávalos
+  image: "galeria/retrobac.png"
+  categories: [ciencias, apps, IA]
+  
 - title: Costo de la crisis de la vivienda en Chile
   path: https://2xonyj-cristian-salinas0ochoa.shinyapps.io/Costodecampamentos/
   author: Cristián Salinas
@@ -142,5 +156,5 @@
   path: https://bastianoleah.shinyapps.io/economia_chile/
   description: Indicadores económicos de Chile, actualizados automáticamente cada día, incluyendo PIB, IPSA, IMACEC, IPC, UF, precio del cobre, inversión extranjera, y más
   author: Bastián Olea Herrera
-  categories: [economia, apps]
+  categories: [economía, apps]
   image: "galeria/economia_chile.jpeg"

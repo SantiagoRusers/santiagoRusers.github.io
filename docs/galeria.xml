@@ -10,7 +10,7 @@
 <atom:link href="https://santiagoRusers.github.io/galeria.xml" rel="self" type="application/rss+xml"/>
 <description>Estos proyectos, paquetes, estudios e iniciativas de análisis de datos nacidas en Chile y desarrolladas con R son un ejemplo de las capacidades de este lenguaje. También puedes visitar el [Catálogo de Paquetes R de Latinoamérica](https://estacionr-asombrosos-paquetes-r-latinoamerica.share.connect.posit.cloud) hecho por [Estación R.](https://estacion-r.com) &lt;p style=&#39;margin-bottom: 18px;&#39;&gt;**Agrega tu proyecto** a esta galería [escribiendo un _issue_ en el repositorio de este sitio](https://github.com/SantiagoRusers/santiagoRusers.github.io/issues/new?template=agregar-proyecto-a-galería.md), por el [Slack](https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA) del grupo, o contactándonos por nuestras [redes sociales](https://twitter.com/santiagoRusers)!&lt;/p&gt;</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 25 Sep 2026 20:52:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 15:17:00 GMT</lastBuildDate>
 <item>
   <title>CensoLab</title>
   <link>https://santiagoRusers.github.io/</link>
@@ -20,7 +20,7 @@
   <category>IA</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/censolab.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -31,7 +31,7 @@
   <category>IA</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/emtp.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -41,7 +41,7 @@
   <category>social</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/costo_corrupcion.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -51,7 +51,7 @@
   <category>social</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/ebc.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -61,7 +61,7 @@
   <category>paquetes</category>
   <category>datos</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/territorial.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -72,7 +72,7 @@
   <category>social</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/monitor_noticias.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -83,7 +83,7 @@
   <category>social</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/ibg.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -94,7 +94,7 @@
   <category>datos</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/bcchr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -106,7 +106,7 @@
   <category>datos</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/icr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -116,7 +116,7 @@
   <category>datos</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/guaguas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -126,7 +126,7 @@
   <category>mapas</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/chilemapas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -137,16 +137,28 @@
   <category>encuestas</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/calidad.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Visor Simce</title>
+  <link>https://santiagoRusers.github.io/</link>
+  <description>Dashboard para explorar de manera interactiva los resultados del Simce. Permite visualizar datos en distintos niveles de agregación, incluyendo análisis nacionales, de género, por dependencia educativa y a nivel territorial</description>
+  <category>educación</category>
+  <category>apps</category>
+  <guid>https://santiagoRusers.github.io/</guid>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/galeria/simce.png" medium="image" type="image/png" height="104" width="144"/>
 </item>
 <item>
   <title>DesucTools</title>
   <link>https://santiagoRusers.github.io/</link>
   <description>Funciones y datos auxiliares para análisis de encuestas sociales utilizados por la Dirección de Estudios Sociales UC (DESUC)</description>
+  <category>social</category>
+  <category>encuestas</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/desuc.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -158,7 +170,7 @@
   <category>paquetes</category>
   <category>datos</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/hidrology_apps.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -169,7 +181,7 @@
   <category>paquetes</category>
   <category>datos</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/redatam.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -180,7 +192,7 @@
   <category>datos</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/ismtchile.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -190,7 +202,7 @@
   <category>datos</category>
   <category>paquetes</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/sinimr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -201,30 +213,19 @@
   <category>encuestas</category>
   <category>apps</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
   <media:content url="https://santiagoRusers.github.io/galeria/cep.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Costo de la crisis de la vivienda en Chile</title>
+  <title>Retro-BAC</title>
   <link>https://santiagoRusers.github.io/</link>
-  <description>App web interactiva que muestra de manera didáctica los costes fiscales y humanos de la Crisis de la Vivienda en Chile</description>
-  <category>social</category>
-  <category>género</category>
-  <category>mapas</category>
+  <description>Application for retrograde extrapolation alcohol calculation with integrated IA Chatbot</description>
+  <category>ciencias</category>
   <category>apps</category>
+  <category>IA</category>
   <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
-  <media:content url="https://santiagoRusers.github.io/galeria/costo_vivienda.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Indicadores económicos de Chile</title>
-  <link>https://santiagoRusers.github.io/</link>
-  <description>Indicadores económicos de Chile, actualizados automáticamente cada día, incluyendo PIB, IPSA, IMACEC, IPC, UF, precio del cobre, inversión extranjera, y más</description>
-  <category>economia</category>
-  <category>apps</category>
-  <guid>https://santiagoRusers.github.io/</guid>
-  <pubDate>Fri, 25 Sep 2026 20:52:55 GMT</pubDate>
-  <media:content url="https://santiagoRusers.github.io/galeria/economia_chile.jpeg" medium="image" type="image/jpeg"/>
+  <pubDate>Tue, 29 Sep 2026 15:17:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/galeria/retrobac.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>
