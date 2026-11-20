@@ -1,0 +1,34 @@
+---
+title: "Reunión mensual de usuari@s de R: noviembre"
+author: "Carolina Morales y Bastián Olea"
+date: "2026-11-19"
+image: "cordillera_3.jpg"
+categories: [reuniones]
+---
+
+Se viene una nueva reunión mensual de la comunidad de usuarias y usuarios de R en Santiago de Chile!
+
+Las reuniones son **espacios abiertos de intercambio de experiencias y conversación** centrados en datos, información geoespacial, estadísticas, inteligencia artificial y código abierto. Todo en torno al lenguaje R!
+
+Buscamos **personas que quieran compartir experiencias y usos de R**, así que puedes ir pensando en algo que compartir o presentar en vivo!
+
+### Reunión de noviembre:
+- 30 de noviembre de 2026, 19:30 hrs. (Santiago), online
+
+[Conéctate a la reunión por Zoom en este enlace](https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1)
+
+Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/)
+
+Por mientras puedes unirte al **chat grupal** para conversar y ayudar a coordinar la reunión!
+
+<div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;
+width: 320px;">
+  <a href = "https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" 
+  style="text-decoration: none; color: #FDF4F8;" target = "_blank">
+  
+  {{< fa brands slack size=2x >}} Únete al chat grupal en Slack
+    
+  </a>
+</div>
+
+_Recuerda que al participar en las reuniones de la comunidad de usuarias y usuarios de R, estás aceptando el [código de conducta](https://ropensci.org/es/código-de-conducta/), que busca asegurar un espacio seguro e inclusivo para todas las personas._
