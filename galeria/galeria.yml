@@ -67,6 +67,13 @@
   image: "galeria/icr.jpg"
   description: "Plataforma para explorar un índice de competitividad de nivel regional, calculados a partir de 79 variables."
   categories: [economía, social, datos, apps]
+  
+- title: Poblador
+  path: https://bastianolea.github.io/poblador/
+  description: Indicadores económicos de Chile, actualizados automáticamente cada día, incluyendo PIB, IPSA, IMACEC, IPC, UF, precio del cobre, inversión extranjera, y más
+  author: Bastián Olea Herrera
+  categories: [datos, social, paquetes]
+  image: "galeria/poblador.jpg"
 
 - title: guaguas
   path: https://rivaquiroga.github.io/guaguas
