@@ -46,7 +46,7 @@ target = "_blank">
 
 La siguiente reunión del grupo será el:
 
-- **23 de septiembre** de 2026, 19:30 hrs. (Santiago)
+- [**30 de noviembre** de 2026, 19:30 hrs. (Santiago)](/posts/reunion_noviembre_2026/)
 
 <!-- botón de google calendar --->
 <!--
@@ -70,8 +70,6 @@ download="evento_r_chile.ics">
 
 
 ### Reuniones siguientes:
-- **28 de octubre** de 2026, 19:30 hrs. (Santiago), online
-- **25 de noviembre** de 2026, 19:30 hrs. (Santiago), online
 - **28 de diciembre** de 2026, 19:30 hrs. (Santiago), online
 
 Nos puedes ayudar difundiendo la iniciativa [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://twitter.com/santiagoRusers).
