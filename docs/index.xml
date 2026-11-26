@@ -35,6 +35,9 @@
 <div class="boton">
 <p><a href="https://calendar.app.google/HDmNKMTkjNtbBWVE8" target="_blank"> <i class="fa-solid fa-calendar fa-2x" aria-label="calendar"></i> Agregar a Google Calendar </a></p>
 </div>
+<div class="boton">
+<p><a href="reunion_2026-11-30.ics" download="reunion_2026-11-30.ics" type="text/calendar"> <i class="fa-solid fa-calendar-plus fa-2x" aria-label="calendar-plus"></i> Agregar a Calendario</a></p>
+</div>
 <p>Nos puedes ayudar difundiendo el aviso de la reunión <a href="https://www.linkedin.com/company/santiagorusers">en LinkedIn <i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> y en <a href="https://x.com/SantiagoRusers/">Twitter/X <i class="fa-brands fa-twitter" aria-label="twitter"></i></a></p>
 <p>Por mientras puedes unirte al <strong>chat grupal</strong> para conversar y ayudar a coordinar la reunión!</p>
 <div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//santiagoRusers//ES
+BEGIN:VEVENT
+UID:reunion_2026-11-30.ics@santiagorusers.github.io
+DTSTAMP:20261126T130720Z
+DTSTART:20261130T223000Z
+DTEND:20261201T003000Z
+SUMMARY:Reunión mensual de usuari@s de R de Santiago
+LOCATION:https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8r
+ BybAeE.1
+URL:https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAe
+ E.1
+DESCRIPTION:Conéctate por Zoom: https://us06web.zoom.us/j/82298315134?pwd=
+ O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1
+END:VEVENT
+END:VCALENDAR

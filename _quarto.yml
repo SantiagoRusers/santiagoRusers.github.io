@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "posts/**/*.ics"
 
 website:
   description: "Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile"

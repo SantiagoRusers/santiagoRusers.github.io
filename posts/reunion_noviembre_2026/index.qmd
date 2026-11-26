@@ -29,6 +29,21 @@ target = "_blank">
 </a>
 :::
 
+```{r calendario}
+#| echo: false
+source(here::here("R/crear_ics.R"))
+
+ics <- crear_ics(
+  inicio = "2026-11-30 19:30",
+  zoom = "https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1"
+)
+```
+
+:::{.boton}
+<a href = "`r ics`" download = "`r ics`" type = "text/calendar">
+{{< fa calendar-plus size=2x >}} Agregar a Calendario</a>
+:::
+
 
 Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/)
 
