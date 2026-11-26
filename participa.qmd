@@ -48,15 +48,20 @@ La siguiente reunión del grupo será el:
 
 - [**30 de noviembre** de 2026, 19:30 hrs. (Santiago)](/posts/reunion_noviembre_2026/)
 
-<!-- botón de google calendar --->
-<!--
 :::{.boton}
-<a href = "https://calendar.app.google/NTxLqdsF71ixHKq59" 
+<a href = "https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1" 
+target = "_blank">
+{{< fa video size=2x >}} Conectarse por Zoom
+</a>
+:::
+
+<!-- botón de google calendar --->
+:::{.boton}
+<a href = "https://calendar.app.google/HDmNKMTkjNtbBWVE8" 
 target = "_blank">
 {{< fa calendar size=2x >}} Agregar a Google Calendar
 </a>
 :::
---->
 
 <!-- botón de descargar calendario --->
 <!---

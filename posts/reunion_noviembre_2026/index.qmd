@@ -13,9 +13,22 @@ Las reuniones son **espacios abiertos de intercambio de experiencias y conversac
 Buscamos **personas que quieran compartir experiencias y usos de R**, así que puedes ir pensando en algo que compartir o presentar en vivo!
 
 ### Reunión de noviembre:
-- 30 de noviembre de 2026, 19:30 hrs. (Santiago), online
+- [**30 de noviembre de 2026**, 19:30 hrs. (Santiago), online](https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1)
 
-[Conéctate a la reunión por Zoom en este enlace](https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1)
+:::{.boton}
+<a href = "https://us06web.zoom.us/j/82298315134?pwd=O0n3rEcPNaH0J8jXTusBfv8rBybAeE.1" 
+target = "_blank">
+{{< fa video size=2x >}} Conectarse por Zoom
+</a>
+:::
+
+:::{.boton}
+<a href = "https://calendar.app.google/HDmNKMTkjNtbBWVE8" 
+target = "_blank">
+{{< fa calendar size=2x >}} Agregar a Google Calendar
+</a>
+:::
+
 
 Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/)
 
