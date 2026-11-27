@@ -10,7 +10,178 @@
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 19 Nov 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Noticias de R</title>
+  <dc:creator>Bastián Olea Herrera</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/2026-11-27/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Algunas novedades de R y su ecosistema, para revisar en la junta del lunes 30 de noviembre.</p>
+<section id="rstudio-y-posit" class="level2">
+<h2 class="anchored" data-anchor-id="rstudio-y-posit">RStudio y Posit</h2>
+<div class="noticia">
+<p><strong>Actualizaciones de RStudio</strong></p>
+<p><em>Más Git en el editor, división de paneles y R por proyecto</em></p>
+<p>La versión de noviembre incluye algunas novedades sobre Git: el <strong>margen del editor</strong> marca las líneas agregadas, cambiadas o eliminadas desde el último commit, y también a <strong>comparar versiones</strong> del documento lado a lado, resaltando las diferencias.</p>
+<p>Recientemente se agregó la <strong>división del editor</strong> (horizontal y vertical).</p>
+<p><a href="https://docs.posit.co/ide/news/">Release notes</a> · <a href="https://positron.posit.co/">Positron</a></p>
+</div>
+<div class="noticia">
+<p><strong>rig dentro de RStudio</strong></p>
+<p>RStudio ahora trae <a href="https://github.com/r-lib/rig">rig</a> incorporado, que permite cambiar entre versiones de R.</p>
+<p>Si el proyecto (por ejemplo, vía <code>renv</code>) pide otra versión de R, avisa y ofrece cambiar, instalándola en segundo plano si falta. Si la biblioteca de renv está vacía, ofrece <code>renv::restore()</code>. rig 0.11.0 además agrega <code>rig pkg</code> (instalador tipo pak) y <code>rig proj</code>, un gestor de proyectos al estilo uv o cargo con <code>rproj.toml</code> y lockfiles multiplataforma.</p>
+<p><a href="https://opensource.posit.co/blog/2026-10-15_rig-0-11-0-part-three/">rig 0.11.0, parte 3</a> · <a href="https://github.com/r-lib/rig">Repositorio de rig</a></p>
+</div>
+<div class="noticia">
+<p><strong>ShinyApps.io</strong></p>
+<p><em>Las cuentas migran a Connect Cloud, con fechas según el plan</em></p>
+<p>La migración automática de cuentas empieza el 28 de enero de 2027 para el plan gratuito, el 31 de marzo para Starter y Basic, y el 30 de junio para Standard y Professional. Hay una herramienta de migración propia: vinculas tu cuenta, eliges las apps y las pruebas antes de finalizar. RStudio ya marcó RPubs y ShinyApps.io como destinos de publicación obsoletos.</p>
+<p><a href="https://posit.co/blog/migrating-connect-cloud-posits-unified-publishing-solution">Anuncio</a> · <a href="https://docs.posit.co/connect-cloud/user/shinyapps-migration.html">Guía de migración</a></p>
+</div>
+<div class="noticia">
+<p><strong>Posit AI Pass</strong></p>
+<p><em>El servicio de modelos se renombra para no confundirlo con Posit Assistant</em></p>
+<p>Posit AI pasó a llamarse Posit AI Pass el 21 de octubre. El primer mes cuesta US$5 (con US$15 en créditos) y luego desde US$20 al mes. Además de Claude, ofrece modelos de pesos abiertos como GLM 5.3 y Kimi K3. RStudio y Positron siguen gratuitos, y Posit Assistant funciona con tu propio proveedor de modelos, sin necesidad del Pass.</p>
+<p><a href="https://posit.co/blog/posit-ai-now-posit-ai-pass">Anuncio</a></p>
+</div>
+</section>
+<section id="shiny" class="level2">
+<h2 class="anchored" data-anchor-id="shiny">Shiny</h2>
+<div class="noticia">
+<p><strong>Shiny con watcher</strong></p>
+<p><em>Recarga automática sin polling</em></p>
+<p>watcher 0.2.0 salió en CRAN el 29 de junio como un observador de archivos de uso general, y es el motor de la recarga automática de Shiny. Shiny 1.14.0 (21 de junio) agregó <code>startApp()</code>, que corre una app sin bloquear la sesión. La versión en desarrollo ya exige watcher y eliminó el sondeo. Se activa con <code>shiny::devmode()</code>.</p>
+<p><a href="https://opensource.posit.co/blog/2026-06-29_watcher-0-2-0/">Blog de watcher</a> · <a href="https://watcher.r-lib.org/">Sitio de watcher</a> · <a href="https://cran.r-project.org/package=watcher">CRAN</a> · <a href="https://shiny.posit.co/">Shiny</a></p>
+</div>
+<div class="noticia">
+<p><strong>shinyreact</strong></p>
+<p><em>Interfaz React con servidor Shiny</em></p>
+<p>Permite usar componentes React (todo el ecosistema npm) con la computación reactiva de Shiny en el servidor, y trae skills para agentes de IA que ayudan a construir o convertir apps. Está disponible para R y Python.</p>
+<p><a href="https://opensource.posit.co/blog/2026-09-30_introducing-shinyreact/">Anuncio</a> · <a href="https://posit-dev.github.io/shinyreact/">Sitio</a> · <a href="https://cran.r-project.org/package=shinyreact">CRAN</a> · <a href="https://github.com/posit-dev/shinyreact">GitHub</a></p>
+</div>
+<div class="noticia">
+<p><strong>shinychat 0.5.0</strong></p>
+<p><em>Aplicaciones de chat completas en Shiny</em></p>
+<p>Trae historial de conversaciones, edición y ramificación de mensajes, adjuntos y comandos con barra, además del layout <code>page_chat()</code> de pantalla completa.</p>
+<p><a href="https://opensource.posit.co/blog/2026-09-15_shinychat-r-0.5.0-python-0.7.1/">Anuncio</a> · <a href="https://posit-dev.github.io/shinychat/r/">Sitio</a> · <a href="https://cran.r-project.org/package=shinychat">CRAN</a> · <a href="https://github.com/posit-dev/shinychat">GitHub</a></p>
+</div>
+</section>
+<section id="paquetes" class="level2">
+<h2 class="anchored" data-anchor-id="paquetes">Paquetes</h2>
+<div class="noticia">
+<p><strong>S7 1.0.0 llega a CRAN</strong></p>
+<p><em>El sistema OOP pensado como sucesor de S3 y S4</em></p>
+<p>S7 1.0.0 llegó a CRAN el 19 de noviembre. Lo diseñó el grupo de trabajo de POO del R Consortium, con representantes de R-Core, Bioconductor y tidyverse/Posit. Requiere R ≥ 4.2.0, y entre los paquetes que ya lo usan están ggplot2, ellmer, vitals y shinychat.</p>
+<p><a href="https://rconsortium.github.io/S7/">Sitio de S7</a> · <a href="https://ggplot2.tidyverse.org/">ggplot2</a> · <a href="https://ellmer.tidyverse.org/">ellmer</a> · <a href="https://vitals.tidyverse.org/">vitals</a></p>
+</div>
+<div class="noticia">
+<p><strong>dplyr 1.2.0</strong></p>
+<p><em><code>filter_out()</code>, <code>when_any()</code>/<code>when_all()</code> y recodificación</em></p>
+<p>Agrega <code>filter_out()</code>, el complemento de <code>filter()</code>, los helpers <code>when_any()</code> y <code>when_all()</code>, y <code>recode_values()</code> y <code>replace_values()</code>. <code>if_else()</code> y <code>case_when()</code> quedaron hasta 30 veces más rápidas.</p>
+<p><a href="https://tidyverse.org/blog/2026/02/dplyr-1-2-0/">Blog</a> · <a href="https://dplyr.tidyverse.org/">Sitio de dplyr</a></p>
+</div>
+<div class="noticia">
+<p><strong>territorial</strong></p>
+<p><em>Datos comunales y regionales de Chile, limpios y con códigos</em></p>
+<p>Es de Bastián Olea. Incluye la tabla <code>territorial::territorios</code> con los nombres oficiales y códigos únicos de regiones, provincias y comunas, funciones para limpiar nombres de comunas y una clasificación de comunas en urbanas, mixtas y rurales.</p>
+<p><a href="https://github.com/bastianolea/territorial">GitHub</a></p>
+</div>
+<div class="noticia">
+<p><strong>poblador</strong></p>
+<p><em>Población oficial para cruzar con tus datos</em></p>
+<p>Entrega tablas de población de fuentes oficiales, como <code>censo_poblacion_2024</code>, y <code>agregar_poblacion()</code>, que infiere si tus datos son comunales, regionales o nacionales y funciona con nombres o códigos únicos territoriales. Depende de territorial y se instala desde R-Universe.</p>
+<p><a href="https://bastianolea.rbind.io/blog/poblador/">Blog</a> · <a href="https://github.com/bastianolea/poblador">GitHub</a></p>
+</div>
+<div class="noticia">
+<p><strong>commons</strong></p>
+<p><em>Agentes de análisis de datos con “etiquetas de confianza”</em></p>
+<p>Es un paquete de R y Python para construir agentes de análisis de datos confiables. Los agentes buscan primero en un conjunto de código confiable y, cuando una respuesta usa ese código, la marcan como verificada. Si no lo encuentran, escriben código nuevo respaldado por contexto verificado o dan una respuesta no confiable, y cada respuesta muestra de qué camino proviene. Está construido sobre ellmer, chatlas y shinychat.</p>
+<p><a href="https://opensource.posit.co/blog/2026-09-15_commons-0-1-0/">Anuncio</a> · <a href="https://posit-dev.github.io/commons/">Sitio</a> · <a href="https://cran.r-project.org/package=commons">CRAN</a> · <a href="https://github.com/posit-dev/commons">GitHub</a></p>
+</div>
+<div class="noticia">
+<p><strong>data-dict</strong></p>
+<p><em>Diccionarios de datos en YAML, validables y renderizables</em></p>
+<p>Es una herramienta de línea de comandos, no un paquete de R. <code>data-dict draft</code> perfila los datos y genera un borrador, <code>data-dict validate-data</code> comprueba que los datos cumplan el diccionario, y <code>data-dict render</code> produce una página HTML autocontenida. Incluye un skill para que agentes de IA redacten el diccionario. Hadley Wickham lo mostró en un Data Science Lab en junio, junto con parquet y Claude Code.</p>
+<p><a href="https://data-dict.tidyverse.org/quickstart.html">Quickstart</a></p>
+</div>
+<!-- Pendiente de revisar: "Webrarian" (blog de Thecoatlessprofessor), https://blog.thecoatlessprofessor.com/posts/introducing-webrarian/ -->
+</section>
+<section id="comunidad" class="level2">
+<h2 class="anchored" data-anchor-id="comunidad">Comunidad</h2>
+<div class="noticia">
+<p><strong>Posit Impact: Paulo Villarroel</strong></p>
+<p><em>Un chileno ganó en la categoría “Mission-Critical Impact”</em></p>
+<p>Paulo Villarroel Tapia, del Ministerio de Salud de Chile, construyó con R, Positron y Quarto un sistema que cada mes lee unos 450.000 registros clínicos buscando sospecha de cáncer, con un clasificador de tres capas (heurísticas clínicas y embeddings semánticos). Alimenta a los 29 servicios de salud del país y fue la base del Plan Oncológico de 90 días. El modelo señala casos, pero la decisión clínica la toman los equipos locales.</p>
+<p><a href="https://posit.co/blog/2026-posit-impact-awards">Artículo</a></p>
+</div>
+<div class="noticia">
+<p><strong>HackeaR (LatinR 2026)</strong></p>
+<p><em>Dos horas de contribuciones a R</em></p>
+<p>Fue el 13 de noviembre en Medellín, con 27 participantes y un tablero con 25 propuestas de trabajo en buenas prácticas, documentación y traducción. Aporta un dato práctico: no hace falta ser experto para contribuir a R.</p>
+<p><a href="https://ropensci.org/es/blog/2026/11/20/hackear-latinr2026/">Crónica de rOpenSci</a> · <a href="https://latinr.org/">LatinR</a></p>
+</div>
+</section>
+<section id="eventos" class="level2">
+<h2 class="anchored" data-anchor-id="eventos">Eventos</h2>
+<section id="próximos" class="level3">
+<h3 class="anchored" data-anchor-id="próximos">Próximos</h3>
+<div class="noticia">
+<p><strong>useR!2027 en Santiago de Chile</strong></p>
+<p><em>Del 20 al 23 de julio de 2027, en el Centro de Extensión UC</em></p>
+<p>useR! es la conferencia anual de la comunidad de R, sin fines de lucro y organizada por voluntarios con apoyo de la R Foundation. En 2027 llega por primera vez a Sudamérica, a Santiago, y coincide con la décima edición de LatinR. El llamado a propuestas abre el 15 de diciembre de 2026 y cierra el 30 de enero de 2027, y el registro abre el 15 de marzo. La sede es la Facultad de Matemáticas de la Pontificia Universidad Católica de Chile.</p>
+<p><a href="https://user2027.r-project.org/">Sitio de useR!2027</a> · <a href="https://www.linkedin.com/posts/user-conf_user2027-rstats-datascience-activity-7480933120125353984-Cz2x">Anuncio en LinkedIn</a></p>
+</div>
+<div class="noticia">
+<p><strong>Hackatón RSE 2027</strong></p>
+<p><em>Santiago de Chile, del 12 al 14 de enero de 2027, Campus San Joaquín (UC)</em></p>
+<p>Hackatón para conocer el trabajo de los ingenieros de software de investigación (RSE, por sus siglas en inglés), es decir, quienes desarrollan y mantienen el software que se usa en la investigación científica. Son mini-proyectos en grupo, dirigidos a estudiantes de postgrado, investigadores postdoctorales y personal técnico, con formación en ciencias, humanidades o ingeniería.</p>
+<p><a href="https://forms.gle/SjrnR4qqJLZsvU1P8">Las postulaciones cierran el viernes 4 de diciembre!</a></p>
+<p><a href="https://charlas-rse-espanol.github.io/hackathon2027santiago/">Sitio de la hackatón</a> · <a href="https://charlas-rse-espanol.github.io/">Charlas RSE en español</a></p>
+</div>
+<div class="noticia">
+<p><strong>posit::conf(2027)</strong></p>
+<p><em>Seattle, del 13 al 15 de septiembre</em></p>
+<p>La conferencia de Posit se realizará en Seattle en 2027.</p>
+</div>
+</section>
+<section id="pasados" class="level3">
+<h3 class="anchored" data-anchor-id="pasados">Pasados</h3>
+<div class="noticia">
+<p><strong>Posit::conf 2026 (Houston, 14–16 de septiembre)</strong></p>
+<p><em>Lo anunciado allí</em></p>
+<p>Se presentaron commons, Quarto Hub (edición colaborativa de proyectos Quarto) y los ocho ganadores de los Posit Impact Awards.</p>
+<p><a href="https://posit.co/blog/positron-at-posit-conf-2026">Takeaways de Positron</a></p>
+</div>
+<div class="noticia">
+<p><strong>R+AI 2026</strong></p>
+<p><em>Conferencia del R Consortium sobre R e inteligencia artificial, 10 y 11 de noviembre, en línea</em></p>
+<p>Trató aprendizaje automático y modelos de lenguaje en R, herramientas de programación asistida por IA, despliegues en la industria e investigación en IA responsable. Las keynotes fueron de Andrew Heiss y Mine Çetinkaya-Rundel, y las charlas quedaron grabadas en el canal de YouTube del R Consortium.</p>
+<p><a href="https://rconsortium.github.io/RplusAI_website/">Sitio de R+AI 2026</a></p>
+</div>
+<div class="noticia">
+<p><strong>V Congreso y XVI Jornadas de Usuarios de R (Tenerife)</strong></p>
+<p><em>Entre el 25 y el 27 de noviembre</em></p>
+</div>
+<div class="noticia">
+<p><strong>Conferencias de R</strong></p>
+<p><em>useR!, LatinR, rOpenSci Champions</em></p>
+<p>Sitios y anuncios: <a href="https://user2027.r-project.org/">useR!2027</a>, <a href="https://latinr.org/">LatinR 2026</a> y <a href="https://ropensci.org/blog/2026/06/09/champions-2026/">rOpenSci Champions 2026</a>. La lista actualizada de conferencias está en <a href="https://r-project.org/conferences/">r-project.org/conferences</a>.</p>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>noticias</category>
+  <guid>https://santiagoRusers.github.io/posts/2026-11-27/</guid>
+  <pubDate>Fri, 27 Nov 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reunión mensual de usuari@s de R: noviembre</title>
   <dc:creator>Carolina Morales y Bastián Olea</dc:creator>

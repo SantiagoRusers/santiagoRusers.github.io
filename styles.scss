@@ -280,3 +280,42 @@ font-style: inherit;
   stroke: $secondary !important;
   fill: $secondary !important;
 }
+
+/* noticias */
+
+/* recuadro de cada noticia */
+.noticia {
+  background-color: #FBDEEB;
+  border: 1px solid #EEBCD3;
+  border-radius: 7px;
+  padding: 12px 20px;
+  margin: 16px 0;
+  display: flow-root;
+}
+
+.noticia p:first-child {
+  font-size: 120%;
+}
+
+.noticia p:last-child {
+  margin-bottom: 4px;
+  font-size: 80%;
+}
+
+/* imagen a la derecha de la noticia, con bordes redondeados */
+img.imagen-derecha {
+  float: right;
+  width: 40%;
+  max-width: 320px;
+  margin: 4px 0 12px 20px;
+  border-radius: 12px !important;
+}
+
+@media (max-width: 576px) {
+  img.imagen-derecha {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin: 0 0 12px 0;
+  }
+}
